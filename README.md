@@ -14,13 +14,15 @@
 <a href="https://www.instagram.com/_mehak_._tewari_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <img src="https://komarev.com/ghpvc/?username=mehaktewari&label=Profile%20Views&color=2F81F7&style=for-the-badge" />
 
+<br><br>
+
+<img src="terminal.svg" width="700" alt="terminal intro" />
+
 </div>
 
 <br>
 
 ## 👩‍💻 About Me
-
-<img align="right" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" />
 
 I'm a **DevOps Engineer at Clouds Analytics**, focused on building **reliable, scalable, and automated cloud-native systems**.
 
@@ -51,6 +53,14 @@ I love systems that are not just functional, but also **automated, maintainable,
 | Infrastructure as Code (Terraform) | Python Scripting & REST Integrations | Python & Backend Development |
 | Secure, Observable & Scalable Systems | Monitoring & Troubleshooting | Full-Stack Web Applications |
 
+</div>
+
+<br>
+
+## ⚙️ How I Ship
+
+<div align="center">
+  <img src="pipeline.svg" width="100%" alt="CI/CD pipeline animation" />
 </div>
 
 <br>
@@ -180,12 +190,15 @@ I love systems that are not just functional, but also **automated, maintainable,
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mehaktewari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehaktewari&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com/?user=mehaktewari&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehaktewari&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
-<img src="https://streak-stats.demolab.com/?user=mehaktewari&theme=tokyonight&hide_border=true" />
+<br><br>
 
-<img src="https://ghchart.rshah.org/2F81F7/mehaktewari" alt="Contribution chart" width="90%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehaktewari/mehaktewari/output/github-snake-dark.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/mehaktewari/mehaktewari/output/github-snake.svg" width="100%">
+</picture>
 
 </div>
 
