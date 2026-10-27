@@ -1,7 +1,7 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2F81F7&height=230&section=header&text=Mehak%20Tewari&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation%20%7C%20AI%20Engineering&descSize=18&descAlignY=58" width="100%" />
+<img src="banner.svg" width="100%" alt="Mehak Tewari - DevOps Engineer" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B+I'm+Mehak;Building+reliable%2C+scalable+%26+automated+systems+%E2%98%81%EF%B8%8F;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform+%F0%9F%9B%A0%EF%B8%8F;CI%2FCD+%7C+Python+%7C+AI-Powered+Engineering+%F0%9F%A4%96" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" />
+<img align="right" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" />
 
 I'm a **DevOps Engineer at Clouds Analytics**, focused on building **reliable, scalable, and automated cloud-native systems**.
 
@@ -185,7 +185,7 @@ I love systems that are not just functional, but also **automated, maintainable,
 
 <img src="https://streak-stats.demolab.com/?user=mehaktewari&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehaktewari&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://ghchart.rshah.org/2F81F7/mehaktewari" alt="Contribution chart" width="90%" />
 
 </div>
 
@@ -205,6 +205,6 @@ I share practical insights from real-world projects on LinkedIn: cloud & DevOps 
 
 *"Automate everything you can. Understand everything you automate."* 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+<img src="footer.svg" width="100%" alt="" />
 
 </div>
