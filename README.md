@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/mehak-tewari-04934b247"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://leetcode.com/u/mehaktewari07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 <a href="https://www.instagram.com/_mehak_._tewari_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:tewarimehak2107@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <img src="https://komarev.com/ghpvc/?username=mehaktewari&label=Profile%20Views&color=2F81F7&style=for-the-badge" />
 
 <br><br>
@@ -213,6 +214,7 @@ I love systems that are not just functional, but also **automated, maintainable,
 I share practical insights from real-world projects on LinkedIn: cloud & DevOps work, debugging, automation, AI tools, and my journey as an engineer.
 
 <a href="https://www.linkedin.com/in/mehak-tewari-04934b247"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:tewarimehak2107@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <br>
 
